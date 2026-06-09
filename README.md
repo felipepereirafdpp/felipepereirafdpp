@@ -10,13 +10,18 @@ Tenho foco no desenvolvimento de aplicações Back-end utilizando o ecossistema 
 
 ---
 
-## Formação
 
-🎓 Técnico em Desenvolvimento de Software — SENAI
+## 🎓 Formação
 
-🏫 Ensino Médio — SESI
+🏫 **Cursando o Ensino Médio — SESI**
 
-⭐ Reconhecimento como Aluno Destaque do Semestre
+🎓 **Cursando Técnico em Desenvolvimento de Software — SENAI**
+
+⭐ **Aluno Destaque do Semestre**
+
+💼 **Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole**
+
+🎂 **17 anos**
 
 ---
 
