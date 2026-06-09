@@ -84,6 +84,20 @@ Sistema completo de autenticação desenvolvido em ASP.NET Core com:
 
 ---
 
-## Objetivo Profissional
+🎯 Objetivo Profissional
 
 Construir uma carreira sólida na área de desenvolvimento de software, atuando na criação de aplicações escaláveis, seguras e alinhadas às boas práticas utilizadas pelo mercado de tecnologia.
+
+---
+
+📫 Contato
+
+💼 LinkedIn: https://linkedin.com/in/SEU-USUARIO
+
+📧 E-mail: felipepereira.fdpp@gmail.com
+
+📍 Matão - SP, Brasil
+
+---
+
+⭐ Perfil dedicado ao compartilhamento de projetos, conhecimentos e experiências na área de desenvolvimento de software.
