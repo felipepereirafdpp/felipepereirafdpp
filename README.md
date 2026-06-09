@@ -87,8 +87,8 @@ Sistema completo de autenticação e gerenciamento de usuários desenvolvido em 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipepereirafdpp&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepereirafdpp&layout=compact" />
 </p>
 
 ---
