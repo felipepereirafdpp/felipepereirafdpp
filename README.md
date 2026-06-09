@@ -1,112 +1,68 @@
-## Hi there 👋
+# Felipe De Paula Pereira
 
-<!--
-**felipepereirafdpp/felipepereirafdpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Back-end em Formação
 
-Here are some ideas to get you started:
+Atualmente atuo como **Aprendiz Técnico em Desenvolvimento de Sistemas na Romagnole**, desenvolvendo experiência prática em tecnologia e processos corporativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Olá, eu sou Felipe 👋</h1>
+Sou estudante do curso técnico de **Desenvolvimento de Software pelo SENAI**, onde fui reconhecido como **Aluno Destaque do Semestre**, além de cursar o Ensino Médio pelo SESI.
 
-<h3 align="center">
-Desenvolvedor Back-end em formação | C# • ASP.NET Core • SQL Server
-</h3>
-
-<p align="center">
-Apaixonado por desenvolvimento de software, arquitetura de aplicações e construção de APIs modernas.
-</p>
+Tenho foco no desenvolvimento de aplicações Back-end utilizando o ecossistema .NET, aplicando conceitos de arquitetura em camadas, APIs REST, autenticação baseada em JWT, bancos de dados relacionais e boas práticas de desenvolvimento de software.
 
 ---
 
-## 🚀 Sobre Mim
+## Formação
 
-- 🎓 Estudante de Tecnologia da Informação
-- 💻 Focado em desenvolvimento Back-end com C# e ASP.NET Core
-- 📚 Estudando constantemente arquitetura de software e boas práticas
-- 🔐 Experiência com autenticação JWT, Refresh Tokens e recuperação de senha
-- 🗄️ Conhecimentos em SQL Server e Entity Framework Core
-- 🌱 Atualmente aprimorando habilidades em React e TypeScript
+🎓 Técnico em Desenvolvimento de Software — SENAI
 
----
+🏫 Ensino Médio — SESI
 
-## 🛠️ Tecnologias
-
-### Back-end
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
-
-### Banco de Dados
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge)
-
-### Front-end
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
+⭐ Reconhecimento como Aluno Destaque do Semestre
 
 ---
 
-## 📌 Projeto em Destaque
+## Experiência
 
-### 🔐 Login System API
+💼 Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole
 
-Sistema completo de autenticação e gerenciamento de usuários desenvolvido em ASP.NET Core.
-
-**Principais funcionalidades:**
-
-- JWT Authentication
-- Refresh Tokens
-- Recuperação de Senha
-- Envio de Token por E-mail
-- BCrypt Password Hashing
-- SQL Server
-- Entity Framework Core
-- Arquitetura em Camadas
-- DTOs
-- Dependency Injection
+Atuação voltada ao desenvolvimento de sistemas, lógica de programação, processos de tecnologia e evolução contínua em práticas profissionais de desenvolvimento de software.
 
 ---
 
-## 📊 Estatísticas
+## Tecnologias
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipepereirafdpp&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepereirafdpp&layout=compact" />
-</p>
-
----
-
-## 🎯 Objetivos
-
-- Construir projetos cada vez mais próximos de aplicações reais
-- Aprimorar conhecimentos em arquitetura de software
-- Evoluir em desenvolvimento Back-end com .NET
-- Conquistar minha primeira oportunidade profissional na área de tecnologia
+* C#
+* .NET
+* ASP.NET Core
+* Entity Framework Core
+* SQL Server
+* JWT Authentication
+* Refresh Tokens
+* REST APIs
+* React
+* TypeScript
+* Git & GitHub
 
 ---
 
-## 📫 Contato
+## Projeto em Destaque
 
-- LinkedIn: SEU_LINKEDIN
-- Email: SEU_EMAIL
+### Login System API
+
+Sistema completo de autenticação desenvolvido em ASP.NET Core com:
+
+* Registro e autenticação de usuários
+* JWT Authentication
+* Refresh Tokens
+* Recuperação de senha
+* Envio de token por e-mail
+* BCrypt Password Hashing
+* Entity Framework Core
+* SQL Server
+* Arquitetura em Camadas
+* DTOs e Dependency Injection
 
 ---
 
-⭐ Sempre buscando aprender, evoluir e construir soluções melhores a cada projeto.
+## Objetivo Profissional
+
+Construir uma carreira sólida na área de desenvolvimento de software, atuando na criação de aplicações escaláveis, seguras e alinhadas às boas práticas utilizadas pelo mercado de tecnologia.
