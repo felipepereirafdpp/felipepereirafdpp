@@ -28,20 +28,36 @@ Atuação voltada ao desenvolvimento de sistemas, lógica de programação, proc
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
-* C#
-* .NET
-* ASP.NET Core
-* Entity Framework Core
-* SQL Server
-* JWT Authentication
-* Refresh Tokens
-* REST APIs
-* React
-* TypeScript
-* Git & GitHub
+### Back-end
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens)
+![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
+
+### Banco de Dados
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Front-end
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Segurança
+
+![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens)
+![Refresh Token](https://img.shields.io/badge/Refresh_Token-4CAF50?style=for-the-badge)
+![BCrypt](https://img.shields.io/badge/BCrypt-Security-orange?style=for-the-badge)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ## Projeto em Destaque
