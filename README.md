@@ -22,8 +22,18 @@ Tenho foco no desenvolvimento de aplicações Back-end utilizando o ecossistema 
 💼 **Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole**
 
 🎂 **17 anos**
+---
+
+## 📜 Certificações
+
+- ✅ **C#: Lógica de Programação e Algoritmos** — Udemy
+  - **Instrutor:** Nelio Alves
+  - **Carga horária:** 7,5 horas
+  - **Conclusão:** Julho de 2026
 
 ---
+
+
 
 ## Experiência
 
