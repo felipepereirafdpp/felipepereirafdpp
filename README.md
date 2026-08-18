@@ -11,23 +11,23 @@ Tenho foco no desenvolvimento de aplicações Back-end utilizando o ecossistema 
 ---
 
 
-## 🎓 Formação
+##  Formação
 
-🏫 **Cursando o Ensino Médio — SESI**
+ **Cursando o Ensino Médio — SESI**
 
-🎓 **Cursando Técnico em Desenvolvimento de Software — SENAI**
+ **Cursando Técnico em Desenvolvimento de Software — SENAI**
 
-⭐ **Aluno Destaque do Semestre**
+ **Aluno Destaque do Semestre**
 
-💼 **Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole**
+ **Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole**
 
-🎂 **17 anos**
+ **17 anos**
 
 ---
 
 ## 📜 Certificações
 
-- ✅ **C#: Lógica de Programação e Algoritmos** — Udemy
+  - **C#: Lógica de Programação e Algoritmos** — Udemy
   - **Instrutor:** Nelio Alves
   - **Carga horária:** 7,5 horas
   - **Conclusão:** Julho de 2026
@@ -38,7 +38,7 @@ Tenho foco no desenvolvimento de aplicações Back-end utilizando o ecossistema 
 
 ## Experiência
 
-💼 Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole
+ Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole
 
 Atuação voltada ao desenvolvimento de sistemas, lógica de programação, processos de tecnologia e evolução contínua em práticas profissionais de desenvolvimento de software.
 
@@ -96,20 +96,20 @@ Sistema completo de autenticação desenvolvido em ASP.NET Core com:
 
 ---
 
-🎯 Objetivo Profissional
+ Objetivo Profissional
 
 Construir uma carreira sólida na área de desenvolvimento de software, atuando na criação de aplicações escaláveis, seguras e alinhadas às boas práticas utilizadas pelo mercado de tecnologia.
 
 ---
 
-📫 Contato
+ Contato
 
-💼 LinkedIn: https://linkedin.com/in/SEU-USUARIO
+ LinkedIn: Em desenvolvimento
 
-📧 E-mail: felipepereira.fdpp@gmail.com
+ E-mail: felipepereira.fdpp@gmail.com / felipedp.dev@gmail.com
 
-📍 Matão - SP, Brasil
+ Matão - SP, Brasil
 
 ---
 
-⭐ Perfil dedicado ao compartilhamento de projetos, conhecimentos e experiências na área de desenvolvimento de software.
+ Perfil dedicado ao compartilhamento de projetos, conhecimentos e experiências na área de desenvolvimento de software.
