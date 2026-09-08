@@ -25,7 +25,7 @@ Tenho foco no desenvolvimento de aplicações Back-end utilizando o ecossistema 
 
 ---
 
-## 📜 Certificações
+## Certificações
 
   - **C#: Lógica de Programação e Algoritmos** — Udemy
   - **Instrutor:** Nelio Alves
