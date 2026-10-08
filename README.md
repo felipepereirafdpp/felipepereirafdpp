@@ -21,7 +21,7 @@ Tenho foco no desenvolvimento de aplicações Back-end utilizando o ecossistema 
 
  **Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole**
 
- **17 anos**
+ **18 anos**
 
 ---
 
