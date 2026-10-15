@@ -104,7 +104,7 @@ Construir uma carreira sólida na área de desenvolvimento de software, atuando 
 
  Contato
 
- LinkedIn: Em desenvolvimento
+ LinkedIn:(https://www.linkedin.com/in/felipe-de-paula-pereira-693372442/)
 
  E-mail: felipepereira.fdpp@gmail.com / felipedp.dev@gmail.com
 
