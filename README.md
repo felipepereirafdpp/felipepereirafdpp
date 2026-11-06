@@ -1,6 +1,6 @@
 # Felipe De Paula Pereira
 
-### Back-end Developer | C# & .NET
+### Back-end Developer in Training | C# & .NET
 
 Sou Aprendiz Técnico em Desenvolvimento de Sistemas na Romagnole e estudante de Desenvolvimento de Software pelo SENAI, onde fui reconhecido como Aluno Destaque do Semestre.
 
@@ -10,8 +10,8 @@ Tenho interesse em desenvolvimento Back-end, principalmente com C# e .NET, e bus
 
 ### Formação
 
-- **SENAI** — Técnico em Desenvolvimento de Software
-- **SESI** — Ensino Médio
+- **SESI** — Ensino Médio - Cursando 
+- **SENAI** — Técnico em Desenvolvimento de Software - Cursando 
 - **SENAI** — Aluno Destaque do Semestre
 
 ### Certificação
