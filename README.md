@@ -1,115 +1,60 @@
 # Felipe De Paula Pereira
 
-### Desenvolvedor Back-end em Formação
+### Back-end Developer | C# & .NET
 
-Atualmente atuo como **Aprendiz Técnico em Desenvolvimento de Sistemas na Romagnole**, desenvolvendo experiência prática em tecnologia e processos corporativos.
+Sou Aprendiz Técnico em Desenvolvimento de Sistemas na Romagnole e estudante de Desenvolvimento de Software pelo SENAI, onde fui reconhecido como Aluno Destaque do Semestre.
 
-Sou estudante do curso técnico de **Desenvolvimento de Software pelo SENAI**, onde fui reconhecido como **Aluno Destaque do Semestre**, além de cursar o Ensino Médio pelo SESI.
-
-Tenho foco no desenvolvimento de aplicações Back-end utilizando o ecossistema .NET, aplicando conceitos de arquitetura em camadas, APIs REST, autenticação baseada em JWT, bancos de dados relacionais e boas práticas de desenvolvimento de software.
+Tenho interesse em desenvolvimento Back-end, principalmente com C# e .NET, e busco aprimorar minhas habilidades por meio de projetos práticos, explorando arquitetura de software, APIs REST, bancos de dados e segurança.
 
 ---
 
+### Formação
 
-##  Formação
+- **SENAI** — Técnico em Desenvolvimento de Software
+- **SESI** — Ensino Médio
+- **SENAI** — Aluno Destaque do Semestre
 
- **Cursando o Ensino Médio — SESI**
+### Certificação
 
- **Cursando Técnico em Desenvolvimento de Software — SENAI**
-
- **Aluno Destaque do Semestre**
-
- **Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole**
-
- **24 anos**
+- C#: Lógica de Programação e Algoritmos — Nelio Alves | Udemy
 
 ---
 
-## Certificações
+### Tech Stack
 
-  - **C#: Lógica de Programação e Algoritmos** — Udemy
-  - **Instrutor:** Nelio Alves
-  - **Carga horária:** 7,5 horas
-  - **Conclusão:** Julho de 2026
+**Back-end**
+C# · .NET · ASP.NET Core · Entity Framework Core
 
----
+**Database**
+SQL Server · MySQL
 
+**Front-end**
+React · TypeScript
 
-
-## Experiência
-
- Aprendiz Técnico em Desenvolvimento de Sistemas — Romagnole
-
-Atuação voltada ao desenvolvimento de sistemas, lógica de programação, processos de tecnologia e evolução contínua em práticas profissionais de desenvolvimento de software.
+**Tools**
+Git · GitHub
 
 ---
 
-## 🛠️ Tecnologias
+### Featured Project
 
-### Back-end
+**Login System API**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens)
-![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
+API de autenticação e gerenciamento de usuários desenvolvida com ASP.NET Core. Implementa autenticação JWT, Refresh Tokens, recuperação de senha por e-mail, BCrypt e Entity Framework Core com SQL Server, seguindo uma arquitetura em camadas.
 
-### Banco de Dados
+**Ordem de Serviço API**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+API desenvolvida com ASP.NET Core para gerenciamento de ordens de serviço, clientes, funcionários e peças, com controle de status e validações de negócio utilizando Entity Framework Core.
 
-### Front-end
+**Wedding System**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Aplicação desenvolvida para casamentos, permitindo aos convidados consultar informações do evento, localização, comprar presentes e confirmar presença via WhatsApp.
 
-### Segurança
-
-![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens)
-![Refresh Token](https://img.shields.io/badge/Refresh_Token-4CAF50?style=for-the-badge)
-![BCrypt](https://img.shields.io/badge/BCrypt-Security-orange?style=for-the-badge)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
-
-## Projeto em Destaque
-
-### Login System API
-
-Sistema completo de autenticação desenvolvido em ASP.NET Core com:
-
-* Registro e autenticação de usuários
-* JWT Authentication
-* Refresh Tokens
-* Recuperação de senha
-* Envio de token por e-mail
-* BCrypt Password Hashing
-* Entity Framework Core
-* SQL Server
-* Arquitetura em Camadas
-* DTOs e Dependency Injection
 
 ---
 
- Objetivo Profissional
+### Contact
 
-Construir uma carreira sólida na área de desenvolvimento de software, atuando na criação de aplicações escaláveis, seguras e alinhadas às boas práticas utilizadas pelo mercado de tecnologia.
+[LinkedIn](https://www.linkedin.com/in/felipe-de-paula-pereira-693372442/) · felipepereira.fdpp@gmail.com
 
----
-
- Contato
-
- LinkedIn:(https://www.linkedin.com/in/felipe-de-paula-pereira-693372442/)
-
- E-mail: felipepereira.fdpp@gmail.com / felipedp.dev@gmail.com
-
- Matão - SP, Brasil
-
----
-
- Perfil dedicado ao compartilhamento de projetos, conhecimentos e experiências na área de desenvolvimento de software.
+Matão, São Paulo — Brasil
